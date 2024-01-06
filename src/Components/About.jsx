@@ -24,19 +24,20 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Software Engineering trainee at African Leadership X. I'm passionate about developing efficient and innovative software solutions to address complex challenges in the tech industry.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Programming languages (C, Oython, JavaScript, HTML, CSS)",
+  "Software development methodologies (Agile, Scrum, Kanban)",
+  "Software architecture and design patterns",
+  "Version control systems",
+  "Debugging and troubleshooting",
+  "Understanding of web development (Front-end frameworks)",
+  "Database management and design",
 ];
 
 /**
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Driven by a passion for crafting robust and scalable software solutions, I thrive in the dynamic world of coding and problem-solving. Embracing challenges, I believe in the power of technology to transform ideas into reality. I am dedicated to continuous learning, collaboration, and innovation to contribute meaningfully to the ever-evolving tech landscape.";
 
 const About = () => {
   return (

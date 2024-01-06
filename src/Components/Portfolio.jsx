@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/walling-e_MdMMKrgdY-unsplash.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Data Science Projects 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A comprehensive showcase of my data science journey, highlighting my passion for solving complex problems, leveraging data-driven insights, and crafting innovative solutions. As a data enthusiast, I've explored a wide range of domains and deployed cutting-edge techniques to extract actionable knowledge from data.",
+    url: "https://github.com/nobleenia/Data-Science-Portfolio",
   },
   {
-    title: "Web Development for Beginners",
+    title: "App Development UI/UX Design",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created an innovative Bill Estimation App featuring visual representations to enhance user understanding of projected expenses, contributing to a more intuitive and efficient financial planning experience.",
+    url: "https://www.figma.com/proto/4wSGHOeNu7JHYauKkUZ6Xa/Bill-Estimation-App?node-id=56-10&starting-point-node-id=108%3A471&mode=design&t=oisFo8n9Y3s0BudE-1",
   },
   {
-    title: "My Resume Site",
+    title: "My AirBnB Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from scratch, a replica of the AirBnB, including it's database managemenet and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://github.com/nobleenia/AirBnB_clone_v2",
   },
   {
     title: "GitHub Codespaces and github.dev",
